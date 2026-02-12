@@ -10,7 +10,7 @@
 </div>
 
 ----
-### Linguagens e Tecnologias
+### Linguagens e Tecnologias.
 <div style="display: inline_block"><br>
   <img align="center" alt="UiPath" height="50" width="60" src="https://1000logos.net/wp-content/uploads/2024/08/UiPath-Logo.png">     
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -20,7 +20,6 @@
   <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-          
        
 </div>                
 <br/>
