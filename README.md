@@ -1,8 +1,6 @@
 # 👨🏻‍💻 Carlos Alexandre Stefani 
 
-  Sou desenvolvedor backend em formação, com foco em JavaScript, NodeJS, SQL e automação de processos. Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento, enquanto aplico e aprofundo meus conhecimentos por meio de projetos próprios, como a MedApoyo — uma plataforma de revisão e gestão de desempenho acadêmico.
-
-  Tenho interesse especial em arquitetura de APIs, integração de serviços, banco de dados e boas práticas de desenvolvimento. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto na construção de soluções que gerem impacto real.
+  Desenvolvedor backend, com foco em automação de processos. Tenho interesse especial em arquitetura de APIs, integração de serviços, banco de dados e desenvolvimento de automação de processos. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto na construção de soluções que gerem impacto real.
   
 <div> 
   <a href = "mailto:castefani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
